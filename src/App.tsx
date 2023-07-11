@@ -47,6 +47,7 @@ function App() {
               </li>
             ))}
           </ul>
+          
         </div>
         <div className='w-full sticky top-0 flex h-screen items-center'>
           <div className='relative w-full aspect-square rounded-2xl bg-gray-100'>
