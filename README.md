@@ -1,1 +1,1 @@
-#Dynamic scrollable component created using Framer.
+# Dynamic scrollable component created using Framer.
